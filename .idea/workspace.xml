@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c92a2b0d-9f2d-4c45-b361-a19702d2f0d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/AvlTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/BinomialQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/CuckooHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/CuckooHashTableClassic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/DisjSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/DisjSetsSlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig01_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig02_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig02_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig02_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig02_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Fig10_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/HashFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/IntCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/KdTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/LeftistHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/MaxSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/MemoryCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/PairingHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/QuadraticProbingHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/RemoveEvens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/SeparateChainingHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/SplayTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/StringHashFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/SuffixArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/TestIntCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/TestMemoryCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/Treap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/UnderflowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/datastructure/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/test/java/com/cqupt/sirius/analysis/datastructure/SortTest.java" afterDir="false" />
+      <change beforePath="D:/projects/ice4j/src/main/java/org/ice4j/ice/Agent.java" beforeDir="false" afterPath="D:/projects/ice4j/src/main/java/org/ice4j/ice/Agent.java" afterDir="false" />
+      <change beforePath="D:/projects/ice4j/src/test/java/test/Ice.java" beforeDir="false" afterPath="D:/projects/ice4j/src/test/java/test/Ice.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/designedpattern/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/target/" />
+    <ignored path="$PROJECT_DIR$/nat/target/" />
+    <ignored path="D:/projects/ice4j/target/" />
+    <ignored path="$PROJECT_DIR$/icetest/target/" />
+    <ignored path="$PROJECT_DIR$/java8/target/" />
+    <ignored path="$PROJECT_DIR$/springbootlearning/target/" />
+    <ignored path="$PROJECT_DIR$/downpaper/target/" />
+    <ignored path="D:/projects/queuerace2018/target/" />
+    <ignored path="$PROJECT_DIR$/adaptive-loadbalance/target/" />
+    <ignored path="$PROJECT_DIR$/adaptive-loadbalance/workspace-provider/target/" />
+    <ignored path="$PROJECT_DIR$/adaptive-loadbalance/workspace-common/target/" />
+    <ignored path="$PROJECT_DIR$/adaptive-loadbalance/workspace-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/dubbotest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="D:/projects/spring-framework">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java学习" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbotest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Life</find>
+      <find>Coyote</find>
+      <find>Connector</find>
+      <find>addSer</find>
+      <find>startup</find>
+      <find>start()</find>
+      <find>initialize</find>
+      <find>static</find>
+      <find>start</find>
+      <find>compile</find>
+      <find>load</find>
+      <find>BeanFactory</find>
+      <find>credentialsManager</find>
+      <find>91.121.47.14</find>
+      <find>Start ICE connectivity establishment. Local ufrag</find>
+      <find>feed the following</find>
+      <find>Total harvesting time:</find>
+      <find>Total harvesting time</find>
+      <find>main</find>
+      <find>begin to create a agent</find>
+      <find>end to new a agent</find>
+      <find>have add 4 candidate</find>
+      <find>prepare to  create Stream</find>
+      <find>hello</find>
+      <find>success for create Component</find>
+      <find>begin to create Component</find>
+      <find>hostHarvesters</find>
+      <find>agent</find>
+      <find>finish in useHostHarvester</find>
+      <find>getHeaderFields</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\projects\ice4j\src\main\java\org\ice4j\ice\harvest</dir>
+      <dir>D:\projects\ice4j</dir>
+      <dir>D:\projects\tomcat\apache-tomcat-9.0.20-src\java</dir>
+      <dir>D:\projects\tomcat\apache-tomcat-9.0.20-src\java\org\apache</dir>
+      <dir>D:\projects\spring-framework</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/projects/queuerace2018" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/thinkinginjava/src/access/Cake.java" />
+        <option value="$PROJECT_DIR$/algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/easy/TwoSum.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/medium/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/medium/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/hard/FindMedianSortedArrays.java" />
+        <option value="$PROJECT_DIR$/nat/pom.xml" />
+        <option value="$PROJECT_DIR$/nat/src/main/java/com/cqupt/sirius/nat/DaytimeUDPClient.java" />
+        <option value="$PROJECT_DIR$/nat/src/main/java/com/cqupt/sirius/nat/GreetingClient.java" />
+        <option value="$PROJECT_DIR$/nat/src/main/java/com/cqupt/sirius/nat/ConnectServer.java" />
+        <option value="$PROJECT_DIR$/nat/src/main/java/com/cqupt/sirius/nat/ConnectClient.java" />
+        <option value="$PROJECT_DIR$/icetest/pom.xml" />
+        <option value="D:/projects/ice4j/src/test/java/test/SdpUtils.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/com/cqupt/sirius/concurrent/chapter01/TryConcurrency.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/com/cqupt/sirius/concurrent/chapter01/TicketWindow.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/com/cqupt/sirius/concurrent/chapter01/TicketWindowRunnable.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/com/cqupt/sirius/concurrent/chapter02/ThreadConstruction.java" />
+        <option value="$PROJECT_DIR$/java8/pom.xml" />
+        <option value="$PROJECT_DIR$/java8/src/main/java/com/cqupt/sirius/java8/Apple.java" />
+        <option value="$PROJECT_DIR$/java8/src/main/java/com/cqupt/sirius/java8/FilterApple.java" />
+        <option value="$PROJECT_DIR$/java8/src/main/java/com/cqupt/sirius/java8/LambdaExpression.java" />
+        <option value="$PROJECT_DIR$/java8/src/main/java/com/cqupt/sirius/java8/MethodReference.java" />
+        <option value="$PROJECT_DIR$/java8/src/main/java/com/cqupt/sirius/java8/Dish.java" />
+        <option value="$PROJECT_DIR$/java8/src/main/java/com/cqupt/sirius/java8/SimpleStream.java" />
+        <option value="D:/projects/tomcat/apache-tomcat-9.0.20-src/java/org/apache/catalina/core/StandardService.java" />
+        <option value="D:/projects/tomcat/apache-tomcat-9.0.20-src/java/org/apache/catalina/core/StandardServer.java" />
+        <option value="$PROJECT_DIR$/blogdemo/src/generics/Cifa.java" />
+        <option value="$PROJECT_DIR$/springbootlearning/src/main/resources/application.yml" />
+        <option value="D:/projects/ice4j/src/main/java/org/ice4j/stack/StunStack.java" />
+        <option value="$PROJECT_DIR$/springbootlearning/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootlearning/src/main/java/com/cqupt/sirius/springbootlearning/Example.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/datastructure/AvlTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/test/java/com/cqupt/sirius/analysis/datastructure/SortTest.java" />
+        <option value="D:/projects/ice4j/src/test/java/test/Ice.java" />
+        <option value="D:/projects/ice4j/src/main/java/org/ice4j/ice/Agent.java" />
+        <option value="$PROJECT_DIR$/downpaper/pom.xml" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/ReflectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/reflect/ReflectServiceImpl2.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/reflect/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/reflect/ReflectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/HelloWorldImpl.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/JdkProxyExample.java" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/designedpattern/pom.xml" />
+        <option value="$PROJECT_DIR$/designedpattern/designedpattern.iml" />
+        <option value="$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/CglibProxyExample.java" />
+        <option value="$PROJECT_DIR$/downpaper/src/main/java/com/cqupt/sirius/downloadpaper/HttpRequest.java" />
+        <option value="$PROJECT_DIR$/downpaper/src/main/java/com/cqupt/sirius/downloadpaper/DownloadPaper.java" />
+        <option value="$PROJECT_DIR$/downpaper/src/main/java/com/cqupt/sirius/downloadpaper/Worker.java" />
+        <option value="$PROJECT_DIR$/dubbotest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/program/maven" />
+        <option name="userSettingsFile" value="C:\Users\Sirius\program\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560481302729" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/adaptive-loadbalance/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sirius\项目目录\Java学习\algorithm\src\main\java\datastructure" />
+      <recent name="C:\Users\Sirius\项目目录\Java学习\onjava8\src" />
+      <recent name="C:\Users\Sirius\项目目录\Java学习\thinkinginjava\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DownloadPaper">
+    <configuration name="DownloadPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.sirius.downloadpaper.DownloadPaper" />
+      <module name="downpaper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cqupt.sirius.downloadpaper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpRequest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.sirius.downloadpaper.HttpRequest" />
+      <module name="downpaper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cqupt.sirius.downloadpaper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Ice" />
+      <module name="ice4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designedPatternInSSM.proxy.ProxyTest" />
+      <module name="designedpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designedPatternInSSM.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designedPatternInSSM.reflect.ReflectTest" />
+      <module name="designedpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designedPatternInSSM.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Java学习" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Java学习" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootlearning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cqupt.sirius.springbootlearning.Example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ice" />
+      <item itemvalue="Application.HttpRequest" />
+      <item itemvalue="Application.DownloadPaper" />
+      <item itemvalue="Application.ReflectTest" />
+      <item itemvalue="Application.ProxyTest" />
+      <item itemvalue="Spring Boot.Example" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DownloadPaper" />
+        <item itemvalue="Application.HttpRequest" />
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.Ice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92a2b0d-9f2d-4c45-b361-a19702d2f0d8" name="Default Changelist" comment="" />
+      <created>1554368782895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554368782895</updated>
+      <workItem from="1554368785187" duration="2168000" />
+      <workItem from="1554791350539" duration="3802000" />
+      <workItem from="1557066995718" duration="2724000" />
+      <workItem from="1557323743559" duration="2786000" />
+      <workItem from="1557369010630" duration="1887000" />
+      <workItem from="1558140936943" duration="2100000" />
+      <workItem from="1558235536652" duration="24000" />
+      <workItem from="1558361222547" duration="1949000" />
+      <workItem from="1558497901173" duration="1690000" />
+      <workItem from="1558507265859" duration="12678000" />
+      <workItem from="1558577825709" duration="831000" />
+      <workItem from="1558579752621" duration="43398000" />
+      <workItem from="1558863457260" duration="10738000" />
+      <workItem from="1558942322107" duration="14602000" />
+      <workItem from="1559031827320" duration="3162000" />
+      <workItem from="1559181710762" duration="596000" />
+      <workItem from="1559647720223" duration="9236000" />
+      <workItem from="1559704751745" duration="8330000" />
+      <workItem from="1559784225542" duration="11805000" />
+      <workItem from="1559902468335" duration="8651000" />
+      <workItem from="1559957743287" duration="12247000" />
+      <workItem from="1560003753590" duration="2348000" />
+      <workItem from="1560055835247" duration="7756000" />
+      <workItem from="1560228505194" duration="21161000" />
+      <workItem from="1560345932462" duration="7377000" />
+      <workItem from="1560391614560" duration="7774000" />
+      <workItem from="1560407870645" duration="21989000" />
+      <workItem from="1560436656939" duration="3864000" />
+      <workItem from="1560442500982" duration="2954000" />
+      <workItem from="1560478861240" duration="2000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="232627000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5542299" visible="true" weight="0.20415778" />
+      <window_info id="Structure" order="1" sideWeight="0.44577006" side_tool="true" visible="true" weight="0.20415778" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.43058568" side_tool="true" weight="0.18283582" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49307036" weight="0.3253796" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50692964" side_tool="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49626866" weight="0.3286334" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.51865673" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55948555" visible="true" weight="0.19349681" />
+      <window_info id="Structure" order="1" sideWeight="0.44051448" side_tool="true" visible="true" weight="0.19349681" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.43058568" side_tool="true" weight="0.18283582" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49307036" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50692964" side_tool="true" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49626866" weight="0.3286334" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.51865673" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="sHash[90]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/projects/ice4j/src/test/java/test/TrickleIce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="85" column="9" lean-forward="true" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/ice4j/src/test/java/test/SdpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="56" column="39" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#7617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/opentelecoms/sdp/java-sdp-nist-bridge/1.1/java-sdp-nist-bridge-1.1-sources.jar!/org/opentelecoms/javax/sdp/NistSdpFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/beans/PropertyChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="49" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/ice4j/src/main/java/org/ice4j/ice/harvest/UPNPHarvester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/ice4j/src/main/java/org/ice4j/util/ExecutorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jitsi/ice4j/1.0.0/ice4j-1.0.0.jar!/org/ice4j/ice/IceMediaStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/ice4j/src/test/java/test/Ice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="435" lean-forward="true" selection-start-line="435" selection-end-line="435" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/ice4j/src/main/java/org/ice4j/ice/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="708" column="26" selection-start-line="708" selection-start-column="26" selection-end-line="708" selection-end-column="26" />
+          <folding>
+            <element signature="e#11645#11646#0" expanded="true" />
+            <element signature="e#11683#11684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/ice4j/src/main/java/org/ice4j/ice/harvest/CandidateHarvesterSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-742">
+          <caret line="161" column="50" lean-forward="true" selection-start-line="161" selection-start-column="50" selection-end-line="161" selection-end-column="50" />
+          <folding>
+            <element signature="e#3166#3167#0" expanded="true" />
+            <element signature="e#3221#3222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar!/com/google/common/base/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="846" selection-start-line="846" selection-end-line="846" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/SearchContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriverService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#3642#3643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/service/DriverService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="421" column="25" selection-start-line="421" selection-start-column="25" selection-end-line="421" selection-end-column="25" />
+          <folding>
+            <element signature="e#16338#16339#0" expanded="true" />
+            <element signature="e#16420#16421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/hard/FindMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="95" column="46" selection-start-line="95" selection-start-column="42" selection-end-line="95" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="430" column="26" selection-start-line="430" selection-start-column="26" selection-end-line="430" selection-end-column="26" />
+          <folding>
+            <element signature="e#14689#14690#0" expanded="true" />
+            <element signature="e#14738#14739#0" expanded="true" />
+            <element signature="e#15145#15146#0" expanded="true" />
+            <element signature="e#15189#15190#0" expanded="true" />
+            <element signature="e#15252#15253#0" expanded="true" />
+            <element signature="e#15297#15298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+          <folding>
+            <element signature="e#2975#2976#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3176#3177#0" expanded="true" />
+            <element signature="e#3221#3222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="124" column="9" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/queuerace2018/src/main/java/io/openmessaging/DefaultQueueStoreImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/queuerace2018/src/main/java/io/openmessaging/QueueStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/queuerace2018/src/main/java/io/openmessaging/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/queuerace2018/src/main/java/io/openmessaging/DefaultQueueStoreImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="64" column="2" lean-forward="true" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+          <folding>
+            <element signature="e#3658#3659#0" expanded="true" />
+            <element signature="e#3685#3686#0" expanded="true" />
+            <element signature="e#9941#9942#0" expanded="true" />
+            <element signature="e#9968#9969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/javax/net/ssl/HttpsURLConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/nodes/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13414">
+          <caret line="786" column="20" selection-start-line="786" selection-start-column="20" selection-end-line="786" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/reflect/ReflectServiceImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/reflect/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/reflect/ReflectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="751" column="5" selection-start-line="751" selection-start-column="5" selection-end-line="751" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/JdkProxyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java学习.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/HelloWorldImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downpaper/downpaper.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/designedpattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designedpattern/src/main/java/designedPatternInSSM/proxy/CglibProxyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/URLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1000">
+          <caret line="586" column="35" selection-start-line="586" selection-start-column="11" selection-end-line="586" selection-end-column="35" />
+          <folding>
+            <element signature="e#20395#20396#0" expanded="true" />
+            <element signature="e#20422#20423#0" expanded="true" />
+            <element signature="e#20814#20815#0" expanded="true" />
+            <element signature="e#20859#20860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downpaper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+          <folding>
+            <element signature="e#4639#4640#0" expanded="true" />
+            <element signature="e#4718#4719#0" expanded="true" />
+            <element signature="e#6243#6244#0" expanded="true" />
+            <element signature="e#6290#6291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/http/W3CHttpResponseCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downpaper/src/main/java/com/cqupt/sirius/downloadpaper/DownloadPaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="47" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downpaper/src/main/java/com/cqupt/sirius/downloadpaper/HttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downpaper/src/main/java/com/cqupt/sirius/downloadpaper/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adaptive-loadbalance/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbotest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>OSGi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dubbotest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

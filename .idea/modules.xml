@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/adaptive-loadbalance.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/adaptive-loadbalance.iml" group="adaptive-loadbalance and modules" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://D:/projects/tomcat/apache-tomcat-9.0.20-src/java/apache-tomcat-9.0.20-src.iml" filepath="D:/projects/tomcat/apache-tomcat-9.0.20-src/java/apache-tomcat-9.0.20-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogdemo/blogdemo.iml" filepath="$PROJECT_DIR$/blogdemo/blogdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designedpattern/designedpattern.iml" filepath="$PROJECT_DIR$/designedpattern/designedpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downpaper/downpaper.iml" filepath="$PROJECT_DIR$/downpaper/downpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbotest/dubbotest.iml" filepath="$PROJECT_DIR$/dubbotest/dubbotest.iml" />
+      <module fileurl="file://D:/projects/ice4j/ice4j.iml" filepath="D:/projects/ice4j/ice4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icetest/icetest.iml" filepath="$PROJECT_DIR$/icetest/icetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nat/nat.iml" filepath="$PROJECT_DIR$/nat/nat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onjava8/onjava8.iml" filepath="$PROJECT_DIR$/onjava8/onjava8.iml" />
+      <module fileurl="file://D:/projects/queuerace2018/race2018.iml" filepath="D:/projects/queuerace2018/race2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootlearning/springbootlearning.iml" filepath="$PROJECT_DIR$/springbootlearning/springbootlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinkinginjava/thinkinginjava.iml" filepath="$PROJECT_DIR$/thinkinginjava/thinkinginjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/workspace-common/workspace-common.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/workspace-common/workspace-common.iml" group="adaptive-loadbalance and modules" />
+      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/workspace-gateway/workspace-gateway.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/workspace-gateway/workspace-gateway.iml" group="adaptive-loadbalance and modules" />
+      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/workspace-provider/workspace-provider.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/workspace-provider/workspace-provider.iml" group="adaptive-loadbalance and modules" />
+    </modules>
+  </component>
+</project>

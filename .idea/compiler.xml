@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="algorithm" />
+        <module name="designedpattern" />
+        <module name="downpaper" />
+        <module name="dubbotest" />
+        <module name="ice4j" />
+        <module name="icetest" />
+        <module name="java8" />
+        <module name="nat" />
+        <module name="race2018" />
+        <module name="springbootlearning" />
+        <module name="workspace-common" />
+        <module name="workspace-gateway" />
+        <module name="workspace-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adaptive-loadbalance" target="1.8" />
+      <module name="algorithm" target="1.8" />
+      <module name="designedpattern" target="1.8" />
+      <module name="downpaper" target="1.8" />
+      <module name="dubbotest" target="1.8" />
+      <module name="ice4j" target="1.8" />
+      <module name="icetest" target="1.8" />
+      <module name="java8" target="1.8" />
+      <module name="nat" target="1.8" />
+      <module name="race2018" target="1.8" />
+      <module name="springbootlearning" target="1.8" />
+      <module name="workspace-common" target="1.8" />
+      <module name="workspace-gateway" target="1.8" />
+      <module name="workspace-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ice4j" options="-Xlint:all" />
+      <module name="springbootlearning" options="-parameters" />
+    </option>
+  </component>
+</project>
