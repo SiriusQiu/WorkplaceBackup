@@ -20,15 +20,48 @@ public class DownloadPaper {
     }
     private void openAllItems(String url, int itemNum){
         driver.get(url);
-        int size = (int) Math.ceil(itemNum /25);
+        driver.executeScript("var temp_form = document.createElement(\"form\");\n" +
+                "temp_form.method = \"post\";\n" +
+                "temp_form.style.display = \"none\";\n" +
+                "temp_form.target = \"_self\";\n" +
+                "temp_form.action = 'http://www.infocomm-journal.com/txxb/CN/article/advancedSearchResult.do';\n" +
+                "var opt = document.createElement(\"textarea\");\n" +
+                "opt.name = 'searchSQL';\n" +
+                "opt.value = '((((((((((((安全[Title]) OR 安全[Abstract]) OR 安全[Keyword]) OR 网络安全[Title] OR) + 网络安全[Abstract]) OR 网络安全[Keyword]) AND 3[Journal]) AND 2016[FromYear]) AND 2019[ToYear]) AND year[Order])';\n" +
+                "temp_form.appendChild(opt);\n" +
+                "document.body.appendChild(temp_form);\n" +
+                "temp_form.submit();");
         try {
-            Thread.sleep(5000);
+            Thread.sleep(1000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
+    }
+
+    private void findAllPaper(List<WebElement> items, Worker2 worker){
+        for(WebElement element : items){
+            String path = element.getAttribute("id");
+            WebElement titleEle = element.findElement(new By.ByClassName("txt_biaoti"));
+            String title = titleEle.getText();
+            Paper paper = new Paper(title, path);
+            worker.add(paper);
+        }
+    }
+
+    private void downloadPaper(String url, int itemNum){
+        openAllItems(url, itemNum);
+        Set<Cookie> cookies = driver.manage().getCookies();
+        Map<String, String> map = new HashMap<>();
+        for(Cookie cookie : cookies){
+            map.put(cookie.getName(),cookie.getValue());
+        }
+        int size = (int) Math.ceil(itemNum /30);
+        Worker2 worker = new Worker2(map);
         for (int i = 0; i < size; i++){
-            System.out.println("第" + (i+1) + "页");
-            WebElement btn = driver.findElementByClassName("loadMore-btn");
+            List<WebElement> items = driver.findElementsByXPath("//*[@class = \"noselectrow\"]");
+            findAllPaper(items, worker);
+            WebElement btn = driver.findElementByClassName("next");
             driver.executeScript("arguments[0].scrollIntoView()",btn);
             try{
                 btn.click();
@@ -36,33 +69,21 @@ public class DownloadPaper {
                 e.printStackTrace();
                 break;
             }
-//            try {
-//                Thread.sleep(5000);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//                continue;
-//            }
         }
-    }
 
-    private void downloadPaper(String url, int itemNum){
-        openAllItems(url, itemNum);
-        try {
-            Thread.sleep(10000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        List<WebElement> items = driver.findElementsByXPath("//*[@class = \"List-results-items\"]");
-        WebElement title = items.get(10).findElement(By.tagName("a"));
-        WebElement pdf = items.get(10).findElement(By.className("icon-pdf"));
-        String downloadURL = pdf.getAttribute("href");
-        Set<Cookie> cookies = driver.manage().getCookies();
-        //建立cookies
-        Map<String, String> map = new HashMap<>();
-        for(Cookie cookie : cookies){
-            map.put(cookie.getName(),cookie.getValue());
-        }
-        Worker worker = new Worker(map, items);
+        List<WebElement> items = driver.findElementsByXPath("//*[@class = \"noselectrow\"]");
+        findAllPaper(items, worker);
+
+
+
+//        WebElement title = items.get(10).findElement(By.tagName("a"));
+//        WebElement pdf = items.get(10).findElement(By.className("icon-pdf"));
+//        String downloadURL = pdf.getAttribute("href");
+//        Set<Cookie> cookies = driver.manage().getCookies();
+//        //建立cookies
+//        Map<String, String> map = new HashMap<>();
+
+//        Worker worker = new Worker(map, items);
         new Thread(worker).start();
         new Thread(worker).start();
         new Thread(worker).start();
@@ -80,6 +101,6 @@ public class DownloadPaper {
     }
     public static void main(String[] args) {
         DownloadPaper downloadPaper = new DownloadPaper();
-        downloadPaper.downloadPaper("https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7957740", 72);
+        downloadPaper.downloadPaper("http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml", 264);
     }
 }

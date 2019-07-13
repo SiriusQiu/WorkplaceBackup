@@ -9,6 +9,7 @@ import org.openqa.selenium.WebElement;
 import javax.net.ssl.HttpsURLConnection;
 import java.io.File;
 import java.io.IOException;
+import java.net.URLConnection;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -25,6 +26,7 @@ public class Worker implements Runnable {
         count = 0;
     }
 
+
     @Override
     public void run() {
         while (count < MAX){
@@ -35,15 +37,15 @@ public class Worker implements Runnable {
             name = name.replaceAll("/","");
             name = name.replaceAll(":","");
             name = name.replaceAll("\\?","");
-            File file = new File("D:\\资料\\会议总结\\S&P\\2017\\" + name + ".pdf");
+            File file = new File("D:\\资料\\会议总结\\通信学报\\" + name + ".pdf");
             if(file.exists()){
                 continue;
             }
             WebElement pdf = item.findElement(By.className("icon-pdf"));
             String downloadURL = pdf.getAttribute("href");
             try {
-                HttpsURLConnection conn = HttpRequest.getConnect(downloadURL, getCookies());
-                byte[] data = HttpRequest.downloadDataFromUrl(conn);
+                URLConnection conn = HttpsRequest.getConnect(downloadURL, getCookies());
+                byte[] data = HttpsRequest.downloadDataFromUrl(conn);
                 Map<String, List<String>> heads = conn.getHeaderFields();
                 List<String> cookieList = heads.get("Set-Cookie");
                 for(String cookie : cookieList){
@@ -65,8 +67,8 @@ public class Worker implements Runnable {
                     System.out.println(count);
                     continue;
                 }
-                HttpsURLConnection pdfConn = HttpRequest.getConnect(pdfUrl, getCookies());
-                byte[] pdfdata = HttpRequest.downloadDataFromUrl(pdfConn);
+                URLConnection pdfConn = HttpsRequest.getConnect(pdfUrl, getCookies());
+                byte[] pdfdata = HttpsRequest.downloadDataFromUrl(pdfConn);
                 Map<String, List<String>> pdfheads = pdfConn.getHeaderFields();
                 List<String> pdfcookieList = heads.get("Set-Cookie");
                 for(String cookie : pdfcookieList){
@@ -78,13 +80,13 @@ public class Worker implements Runnable {
                         cookies.put(key, value);
                     }
                 }
-                HttpRequest.downloadToFile(pdfdata,name + ".pdf", "D:\\资料\\会议总结\\S&P\\2017\\");
+                HttpsRequest.downloadToFile(pdfdata,name + ".pdf", "D:\\资料\\会议总结\\S&P\\2017\\");
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
     }
-    private String getCookies(){
+    private  String getCookies(){
         int size = cookies.size();
         Iterator<String> iterator = cookies.keySet().iterator();
         StringBuffer result = new StringBuffer();

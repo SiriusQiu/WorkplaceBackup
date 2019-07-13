@@ -3,5 +3,54 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/springbootlearning" charset="UTF-8" />
     <file url="file://D:/projects/ice4j" charset="UTF-8" />
+    <file url="file://D:/projects/shiro" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/all" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/cache" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/config" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/config/core" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/config/ogdl" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/core" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/crypto" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/crypto/cipher" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/crypto/core" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/crypto/hash" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/event" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/integration-tests" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/integration-tests/guice3" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/integration-tests/guice4" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/integration-tests/support" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/lang" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/aspectj" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/guice" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/jaxrs" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/quickstart" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/quickstart-guice" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/servlet-plugin" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/spring" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/spring-boot" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/spring-boot-web" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/spring-client" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/spring-hibernate" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/spring-mvc" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/samples/web" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/aspectj" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/cas" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/ehcache" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/features" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/guice" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/hazelcast" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/jaxrs" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/quartz" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/servlet-plugin" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/spring" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/spring-boot" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/spring-boot/spring-boot-starter" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/support/spring-boot/spring-boot-web-starter" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/test-coverage" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/tools" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/tools/hasher" charset="UTF-8" />
+    <file url="file://D:/projects/shiro/web" charset="UTF-8" />
   </component>
 </project>

@@ -4,6 +4,22 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bitcoinjExam" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="D:/projects/bitcoinj-master" />
+        <option name="gradleHome" value="$USER_HOME$/program/gradle" />
+        <option name="modules">
+          <set>
+            <option value="D:/projects/bitcoinj-master" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="D:/projects/spring-framework" />
         <option name="gradleHome" value="$USER_HOME$/program/gradle" />
         <option name="modules">

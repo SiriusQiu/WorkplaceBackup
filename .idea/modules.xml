@@ -2,25 +2,73 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/adaptive-loadbalance.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/adaptive-loadbalance.iml" group="adaptive-loadbalance and modules" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://D:/projects/tomcat/apache-tomcat-9.0.20-src/java/apache-tomcat-9.0.20-src.iml" filepath="D:/projects/tomcat/apache-tomcat-9.0.20-src/java/apache-tomcat-9.0.20-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitcoinExam/bitcoinExam.iml" filepath="$PROJECT_DIR$/bitcoinExam/bitcoinExam.iml" />
       <module fileurl="file://$PROJECT_DIR$/blogdemo/blogdemo.iml" filepath="$PROJECT_DIR$/blogdemo/blogdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
       <module fileurl="file://$PROJECT_DIR$/designedpattern/designedpattern.iml" filepath="$PROJECT_DIR$/designedpattern/designedpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/downpaper/downpaper.iml" filepath="$PROJECT_DIR$/downpaper/downpaper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbotest/dubbotest.iml" filepath="$PROJECT_DIR$/dubbotest/dubbotest.iml" />
       <module fileurl="file://D:/projects/ice4j/ice4j.iml" filepath="D:/projects/ice4j/ice4j.iml" />
       <module fileurl="file://$PROJECT_DIR$/icetest/icetest.iml" filepath="$PROJECT_DIR$/icetest/icetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacurrency/src/main/main.iml" filepath="$PROJECT_DIR$/javacurrency/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/nat/nat.iml" filepath="$PROJECT_DIR$/nat/nat.iml" />
       <module fileurl="file://$PROJECT_DIR$/onjava8/onjava8.iml" filepath="$PROJECT_DIR$/onjava8/onjava8.iml" />
       <module fileurl="file://D:/projects/queuerace2018/race2018.iml" filepath="D:/projects/queuerace2018/race2018.iml" />
+      <module fileurl="file://D:/projects/shiro/samples/aspectj/samples-aspectj.iml" filepath="D:/projects/shiro/samples/aspectj/samples-aspectj.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/guice/samples-guice.iml" filepath="D:/projects/shiro/samples/guice/samples-guice.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/jaxrs/samples-jaxrs.iml" filepath="D:/projects/shiro/samples/jaxrs/samples-jaxrs.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/quickstart/samples-quickstart.iml" filepath="D:/projects/shiro/samples/quickstart/samples-quickstart.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/quickstart-guice/samples-quickstart-guice.iml" filepath="D:/projects/shiro/samples/quickstart-guice/samples-quickstart-guice.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/servlet-plugin/samples-servlet-plugin.iml" filepath="D:/projects/shiro/samples/servlet-plugin/samples-servlet-plugin.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/spring-hibernate/samples-sprhib.iml" filepath="D:/projects/shiro/samples/spring-hibernate/samples-sprhib.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/spring/samples-spring.iml" filepath="D:/projects/shiro/samples/spring/samples-spring.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/spring-boot/samples-spring-boot.iml" filepath="D:/projects/shiro/samples/spring-boot/samples-spring-boot.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/spring-boot-web/samples-spring-boot-web.iml" filepath="D:/projects/shiro/samples/spring-boot-web/samples-spring-boot-web.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/spring-client/samples-spring-client.iml" filepath="D:/projects/shiro/samples/spring-client/samples-spring-client.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/spring-mvc/samples-spring-mvc.iml" filepath="D:/projects/shiro/samples/spring-mvc/samples-spring-mvc.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/web/samples-web.iml" filepath="D:/projects/shiro/samples/web/samples-web.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/all/shiro-all.iml" filepath="D:/projects/shiro/all/shiro-all.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/support/aspectj/shiro-aspectj.iml" filepath="D:/projects/shiro/support/aspectj/shiro-aspectj.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/cache/shiro-cache.iml" filepath="D:/projects/shiro/cache/shiro-cache.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/support/cas/shiro-cas.iml" filepath="D:/projects/shiro/support/cas/shiro-cas.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/config/shiro-config.iml" filepath="D:/projects/shiro/config/shiro-config.iml" group="shiro-root and modules/shiro-config and modules" />
+      <module fileurl="file://D:/projects/shiro/config/core/shiro-config-core.iml" filepath="D:/projects/shiro/config/core/shiro-config-core.iml" group="shiro-root and modules/shiro-config and modules" />
+      <module fileurl="file://D:/projects/shiro/config/ogdl/shiro-config-ogdl.iml" filepath="D:/projects/shiro/config/ogdl/shiro-config-ogdl.iml" group="shiro-root and modules/shiro-config and modules" />
+      <module fileurl="file://D:/projects/shiro/core/shiro-core.iml" filepath="D:/projects/shiro/core/shiro-core.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/crypto/shiro-crypto.iml" filepath="D:/projects/shiro/crypto/shiro-crypto.iml" group="shiro-root and modules/shiro-crypto and modules" />
+      <module fileurl="file://D:/projects/shiro/crypto/cipher/shiro-crypto-cipher.iml" filepath="D:/projects/shiro/crypto/cipher/shiro-crypto-cipher.iml" group="shiro-root and modules/shiro-crypto and modules" />
+      <module fileurl="file://D:/projects/shiro/crypto/core/shiro-crypto-core.iml" filepath="D:/projects/shiro/crypto/core/shiro-crypto-core.iml" group="shiro-root and modules/shiro-crypto and modules" />
+      <module fileurl="file://D:/projects/shiro/crypto/hash/shiro-crypto-hash.iml" filepath="D:/projects/shiro/crypto/hash/shiro-crypto-hash.iml" group="shiro-root and modules/shiro-crypto and modules" />
+      <module fileurl="file://D:/projects/shiro/support/ehcache/shiro-ehcache.iml" filepath="D:/projects/shiro/support/ehcache/shiro-ehcache.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/event/shiro-event.iml" filepath="D:/projects/shiro/event/shiro-event.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/support/features/shiro-features.iml" filepath="D:/projects/shiro/support/features/shiro-features.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/support/guice/shiro-guice.iml" filepath="D:/projects/shiro/support/guice/shiro-guice.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/support/hazelcast/shiro-hazelcast.iml" filepath="D:/projects/shiro/support/hazelcast/shiro-hazelcast.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/integration-tests/shiro-integration-tests.iml" filepath="D:/projects/shiro/integration-tests/shiro-integration-tests.iml" group="shiro-root and modules/shiro-integration-tests and modules" />
+      <module fileurl="file://D:/projects/shiro/integration-tests/guice3/shiro-its-guice3.iml" filepath="D:/projects/shiro/integration-tests/guice3/shiro-its-guice3.iml" group="shiro-root and modules/shiro-integration-tests and modules" />
+      <module fileurl="file://D:/projects/shiro/integration-tests/guice4/shiro-its-guice4.iml" filepath="D:/projects/shiro/integration-tests/guice4/shiro-its-guice4.iml" group="shiro-root and modules/shiro-integration-tests and modules" />
+      <module fileurl="file://D:/projects/shiro/integration-tests/support/shiro-its-support.iml" filepath="D:/projects/shiro/integration-tests/support/shiro-its-support.iml" group="shiro-root and modules/shiro-integration-tests and modules" />
+      <module fileurl="file://D:/projects/shiro/support/jaxrs/shiro-jaxrs.iml" filepath="D:/projects/shiro/support/jaxrs/shiro-jaxrs.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/lang/shiro-lang.iml" filepath="D:/projects/shiro/lang/shiro-lang.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/support/quartz/shiro-quartz.iml" filepath="D:/projects/shiro/support/quartz/shiro-quartz.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/shiro-root.iml" filepath="D:/projects/shiro/shiro-root.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/samples/shiro-samples.iml" filepath="D:/projects/shiro/samples/shiro-samples.iml" group="shiro-root and modules/shiro-samples and modules" />
+      <module fileurl="file://D:/projects/shiro/support/servlet-plugin/shiro-servlet-plugin.iml" filepath="D:/projects/shiro/support/servlet-plugin/shiro-servlet-plugin.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/support/spring/shiro-spring.iml" filepath="D:/projects/shiro/support/spring/shiro-spring.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/support/spring-boot/shiro-spring-boot.iml" filepath="D:/projects/shiro/support/spring-boot/shiro-spring-boot.iml" group="shiro-root and modules/shiro-support and modules/shiro-spring-boot and modules" />
+      <module fileurl="file://D:/projects/shiro/support/spring-boot/spring-boot-starter/shiro-spring-boot-starter.iml" filepath="D:/projects/shiro/support/spring-boot/spring-boot-starter/shiro-spring-boot-starter.iml" group="shiro-root and modules/shiro-support and modules/shiro-spring-boot and modules" />
+      <module fileurl="file://D:/projects/shiro/support/spring-boot/spring-boot-web-starter/shiro-spring-boot-web-starter.iml" filepath="D:/projects/shiro/support/spring-boot/spring-boot-web-starter/shiro-spring-boot-web-starter.iml" group="shiro-root and modules/shiro-support and modules/shiro-spring-boot and modules" />
+      <module fileurl="file://D:/projects/shiro/support/shiro-support.iml" filepath="D:/projects/shiro/support/shiro-support.iml" group="shiro-root and modules/shiro-support and modules" />
+      <module fileurl="file://D:/projects/shiro/test-coverage/shiro-test-coverage.iml" filepath="D:/projects/shiro/test-coverage/shiro-test-coverage.iml" group="shiro-root and modules" />
+      <module fileurl="file://D:/projects/shiro/tools/shiro-tools.iml" filepath="D:/projects/shiro/tools/shiro-tools.iml" group="shiro-root and modules/shiro-tools and modules" />
+      <module fileurl="file://D:/projects/shiro/tools/hasher/shiro-tools-hasher.iml" filepath="D:/projects/shiro/tools/hasher/shiro-tools-hasher.iml" group="shiro-root and modules/shiro-tools and modules" />
+      <module fileurl="file://D:/projects/shiro/web/shiro-web.iml" filepath="D:/projects/shiro/web/shiro-web.iml" group="shiro-root and modules" />
+      <module fileurl="file://$PROJECT_DIR$/shiroweb/shiroweb.iml" filepath="$PROJECT_DIR$/shiroweb/shiroweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootlearning/springbootlearning.iml" filepath="$PROJECT_DIR$/springbootlearning/springbootlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springtest/springtest.iml" filepath="$PROJECT_DIR$/springtest/springtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinkinginjava/thinkinginjava.iml" filepath="$PROJECT_DIR$/thinkinginjava/thinkinginjava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/workspace-common/workspace-common.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/workspace-common/workspace-common.iml" group="adaptive-loadbalance and modules" />
-      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/workspace-gateway/workspace-gateway.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/workspace-gateway/workspace-gateway.iml" group="adaptive-loadbalance and modules" />
-      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance/workspace-provider/workspace-provider.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance/workspace-provider/workspace-provider.iml" group="adaptive-loadbalance and modules" />
     </modules>
   </component>
 </project>

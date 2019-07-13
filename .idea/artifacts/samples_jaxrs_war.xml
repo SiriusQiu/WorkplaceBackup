@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="samples-jaxrs:war">
+    <output-path>D:/projects/shiro/samples/jaxrs/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>samples-jaxrs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="samples-jaxrs-1.5.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="samples-jaxrs:war exploded" />
+    </root>
+  </artifact>
+</component>

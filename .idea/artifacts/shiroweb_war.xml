@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiroweb:war">
+    <output-path>$PROJECT_DIR$/shiroweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shiroweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shiroweb.war">
+      <element id="artifact" artifact-name="shiroweb:war exploded" />
+    </root>
+  </artifact>
+</component>

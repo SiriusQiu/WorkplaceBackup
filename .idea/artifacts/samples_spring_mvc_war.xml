@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="samples-spring-mvc:war">
+    <output-path>D:/projects/shiro/samples/spring-mvc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>samples-spring-mvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="samples-spring-mvc-1.5.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="samples-spring-mvc:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-configuration2:2.5" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.9" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-text:1.6" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

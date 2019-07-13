@@ -2,22 +2,63 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="Osmorc" url="file://D:/projects/ice4j" />
+    <file type="Osmorc" url="file://D:/projects/shiro/cache" />
+    <file type="Osmorc" url="file://D:/projects/shiro/config/core" />
+    <file type="Osmorc" url="file://D:/projects/shiro/config/ogdl" />
+    <file type="Osmorc" url="file://D:/projects/shiro/core" />
+    <file type="Osmorc" url="file://D:/projects/shiro/crypto/cipher" />
+    <file type="Osmorc" url="file://D:/projects/shiro/crypto/core" />
+    <file type="Osmorc" url="file://D:/projects/shiro/crypto/hash" />
+    <file type="Osmorc" url="file://D:/projects/shiro/event" />
+    <file type="Osmorc" url="file://D:/projects/shiro/lang" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/aspectj" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/cas" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/ehcache" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/guice" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/hazelcast" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/jaxrs" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/quartz" />
+    <file type="Osmorc" url="file://D:/projects/shiro/support/spring" />
+    <file type="Osmorc" url="file://D:/projects/shiro/tools/hasher" />
+    <file type="Osmorc" url="file://D:/projects/shiro/web" />
+    <file type="web" url="file://$PROJECT_DIR$/shiroweb" />
+    <file type="web" url="file://D:/projects/shiro/integration-tests/guice3" />
+    <file type="web" url="file://D:/projects/shiro/integration-tests/guice4" />
+    <file type="web" url="file://D:/projects/shiro/samples/guice" />
+    <file type="web" url="file://D:/projects/shiro/samples/jaxrs" />
+    <file type="web" url="file://D:/projects/shiro/samples/servlet-plugin" />
+    <file type="web" url="file://D:/projects/shiro/samples/spring-hibernate" />
+    <file type="web" url="file://D:/projects/shiro/samples/spring-mvc" />
+    <file type="web" url="file://D:/projects/shiro/samples/web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/algorithm/pom.xml" />
-        <option value="$PROJECT_DIR$/nat/pom.xml" />
         <option value="D:/projects/ice4j/pom.xml" />
         <option value="$PROJECT_DIR$/icetest/pom.xml" />
         <option value="$PROJECT_DIR$/java8/pom.xml" />
-        <option value="$PROJECT_DIR$/springbootlearning/pom.xml" />
         <option value="$PROJECT_DIR$/downpaper/pom.xml" />
-        <option value="D:/projects/queuerace2018/pom.xml" />
         <option value="$PROJECT_DIR$/designedpattern/pom.xml" />
         <option value="$PROJECT_DIR$/adaptive-loadbalance/pom.xml" />
         <option value="$PROJECT_DIR$/dubbotest/pom.xml" />
+        <option value="$PROJECT_DIR$/springtest/pom.xml" />
+        <option value="$PROJECT_DIR$/bitcoinExam/pom.xml" />
+        <option value="D:/projects/shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/shiroweb/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/adaptive-loadbalance/pom.xml" />
+        <option value="$PROJECT_DIR$/adaptive-loadbalance/workspace-common/pom.xml" />
+        <option value="$PROJECT_DIR$/adaptive-loadbalance/workspace-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/adaptive-loadbalance/workspace-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/dubbo-demo-cunsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/dubbo-demo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/dubbo-demo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbotest/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">

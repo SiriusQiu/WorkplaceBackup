@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/book/lib/jibx-schema.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/jboss-marshalling-serial-1.3.0.CR9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/jboss-marshalling-1.3.0.CR9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/jibx-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/bcel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/netty-all-5.0.0.Alpha1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/hamcrest-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/stax-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/jibx-bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/jibx-run.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/qdox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/jibx-extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/wstx-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/book/lib/joda-time.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/lib/tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/lib/tools.jar!/" />
+    </SOURCES>
+  </library>
+</component>
